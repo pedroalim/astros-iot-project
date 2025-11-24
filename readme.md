@@ -10,12 +10,6 @@ O **AstroView** é uma aplicação Full Stack de IoT e Web que analisa condiçõ
 
 ---
 
-## 📸 Screenshots
-
-*(Espaço reservado para screenshots do dashboard)*
-
----
-
 ## 🚀 Funcionalidades
 
 ### 🌍 Monitoramento Global
