@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Classe para o modo astrônomo */
+.red-mode {
+  /* Esse filtro inverte cores e joga tudo para vermelho */
+  filter: sepia(1) hue-rotate(320deg) saturate(4) brightness(0.8) contrast(1.2);
+  background-color: #000; /* Garante fundo preto absoluto */
+}
+
+/* Deixa as transições suaves */
+body {
+  transition: filter 0.5s ease;
+}
